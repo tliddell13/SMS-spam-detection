@@ -8,11 +8,6 @@ analysis of the dataset and following this some intermediate results and experim
 Note that some of the analysis and experimentation can take awhile to run as they run loops
 around 100 times. These are clearly labeled.
 
-The link for the coolab notebook is provided here:
-https://colab.research.google.com/drive/12rm6c93b4bX-RIyVU01HIVHv21k38rU-?usp=sharing
-
-The datasets must be uploaded to coolab before the notebook can run. 
-
 Also please note the following:
 1. The dataset is provided and is already split into training and testing data.
 These can be seen as:
